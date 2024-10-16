@@ -5,5 +5,6 @@ public class Add {
         int c;
         c=a+b;
         System.out.println(c);
+        System.out.println("Add Class")
     }
 }
